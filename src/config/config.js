@@ -1,3 +1,3 @@
 export const config = {
-   userApi: 'https://urlshortener-backend-pkt5.onrender.com' 
-}
+  userApi: "https://node-5-jsjl.onrender.com",
+};
